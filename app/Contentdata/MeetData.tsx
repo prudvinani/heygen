@@ -6,7 +6,6 @@ import circle from "@/public/circle.avif"
 import  salesforce from "@/public/salesforce.avif"
 import bmw from "@/public/bwm.avif"
 import ogilvy from "@/public/ogily.avif"
-import aa from '@/public/aa.avif'
 import heygen1 from "@/public/heygen1.webp"
 
 

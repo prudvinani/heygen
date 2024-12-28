@@ -36,7 +36,7 @@ const Madewithheygen = () => {
 
 
                     <div className='flex space-x-4 mt-3 px-5'> <p className='text-[12px] font-semibold'>Other</p> <p className='text-[12px] font-semibold'> Video Translation</p> <p className='text-[12px] font-semibold'>Localization</p></div>
-                    <p  className='md:text-xl px-5 mt-4 text-[15px] font-montserrat'>How Argentina's President used HeyGen to translate speech at World Economic Forum</p>
+                    <p  className='md:text-xl px-5 mt-4 text-[15px] font-montserrat'>How Argentina President used HeyGen to translate speech at World Economic Forum</p>
                     <p className='text-white bg-black p-3 rounded-full inline-block ml-5 mt-10 cursor-pointer hover:bg-violet-600'><IoIosArrowForward /></p>
 
                 </div>

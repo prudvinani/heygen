@@ -12,9 +12,6 @@ import Footer from "./Contentdata/Footer";
 import HeroBackground from "./Contentdata/Herocontent";
 import NavbarCom from "./Contentdata/NavbarCom";
 
-
-
-
 export default function Home() {
   return <div>
 
@@ -29,7 +26,7 @@ export default function Home() {
     <div className="mt-28">
       <p className="text-center px-4 text-2xl leading-tight  font-[350px]  antialiased font-montserrat md:text-[50px]">
         Create and translate videos <br />
-        with HeyGen's AI Video Generator
+        with HeyGen &apos;s AI Video Generator
       </p>
       <p className="text-center pt-5 font-inter font-montserrat text-sm md:text-[18px]  px-10 md:px-0">
         Produce studio-quality videos in 175 languages without a camera or crew.

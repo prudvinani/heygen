@@ -6,11 +6,9 @@ import {
     AccordionTrigger,
   } from "@/components/ui/accordion"
 
-  import Image from 'next/image'
-  import videocontent from "../../public/heygen1.webp"
 
 
-  // https://resource.heygencdn.com/homepage/AImail_final_opt.mp4
+
 const VideoContent = () => {
   return (
     <div  >
@@ -19,7 +17,7 @@ const VideoContent = () => {
         {/* mobile screen */}
         <p className='md:text-center  px-8 text-3xl  block md:hidden mt-7'>Video for content creators </p>
         <p className='block md:hidden  text-3xl px-8 '>like you.</p>
-        <p className=' pt-5 px-8 md:text-center'>Whatever you do, whoever you work with — here’s how HeyGen can help.</p>
+        <p className=' pt-5 px-8 md:text-center'>Whatever you do, whoever you work with — here&apos;s how HeyGen can help.</p>
 
 
 
@@ -40,7 +38,7 @@ const VideoContent = () => {
       <AccordionItem value="item-1">
         <AccordionTrigger className='text-xl md:text-3xl '>Marketing</AccordionTrigger>
         <AccordionContent>
-        Make product explainers and how-to’s for anyone, anywhere, instantly.
+        Make product explainers and how-to&apos;s for anyone, anywhere, instantly.
         <p>- learn more</p>
 
 
@@ -55,7 +53,7 @@ const VideoContent = () => {
       <AccordionItem value="item-3">
         <AccordionTrigger className='text-xl md:text-3xl '>Learning & Development</AccordionTrigger>
         <AccordionContent>
-        Nobody wants to read training docs and e-learning content, and now they don’t have to.
+        Nobody wants to read training docs and e-learning content, and now they don&apos;t have to.
         </AccordionContent>
       </AccordionItem>
 

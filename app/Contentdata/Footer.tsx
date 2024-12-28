@@ -97,7 +97,7 @@ const Footer = () => {
                         <p>API Docs</p>
                         <p>FAQ</p>
                         <p>Tutorials</p>
-                        <p>What's New</p>
+                        <p>Whats New</p>
                     </div>
 
 
