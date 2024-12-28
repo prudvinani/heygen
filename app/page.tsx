@@ -5,7 +5,6 @@ import Doit from "./Contentdata/Doit";
 import Personalized from "./Contentdata/Personalized";
 import Secure from "./Contentdata/Secure";
 import Madewithheygen from "./Contentdata/Madewithheygen";
-import HeroBackground from "./Contentdata/Herocontent";
 import MeetData from "./Contentdata/MeetData";
 import Language from "./Contentdata/Language";
 import Footer from "./Contentdata/Footer";
@@ -16,11 +15,6 @@ export default function Home() {
 
 
 <NavbarCom/>
-
-
-
-
-
 
     <div className="mt-10 relative">
       <p className="text-center px-4 text-2xl leading-tight  font-[350px]  antialiased font-montserrat md:text-[50px]">
