@@ -1,8 +1,4 @@
-import React from 'react'
-import heygen from "@/public/heygen1.webp"
-import Image from 'next/image'
 
-//https://res.cloudinary.com/diqmvbeg6/video/upload/f_auto,q_auto/v1727308222/HeyGen-2.0-StreamingAvatar-1400x1600-081524_npuqow.mp4
 const Doit = () => {
   return (
     <div>
@@ -12,7 +8,6 @@ const Doit = () => {
             <div>
             <video
     className="rounded-3xl px-5"
-    // style={{ borderRadius: "40px", paddingTop: "10px" }}
     src="https://res.cloudinary.com/diqmvbeg6/video/upload/f_auto,q_auto/v1727308222/HeyGen-2.0-StreamingAvatar-1400x1600-081524_npuqow.mp4"
     autoPlay
     loop

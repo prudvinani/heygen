@@ -1,7 +1,7 @@
 import React from 'react'
 import heygenallyou from "@/public/heygenall.webp"
 import Image from 'next/image'
-import flag from "@/public/flag.png"
+
 import { FaAngleRight } from "react-icons/fa6";
 import { FaPlayCircle } from "react-icons/fa";
 const AllYouNeed = () => {

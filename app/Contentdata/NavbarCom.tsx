@@ -4,7 +4,7 @@ import Image from 'next/image';
 import heygen from "@/public/heygen.svg";
 import { AlignJustify, X, ChevronDown } from 'lucide-react';
 
-const NewData: React.FC = () => {
+const NavbarCom: React.FC = () => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
 
     const toggleMenu = () => {
@@ -76,4 +76,4 @@ const NewData: React.FC = () => {
     );
 };
 
-export default NewData;
+export default NavbarCom;

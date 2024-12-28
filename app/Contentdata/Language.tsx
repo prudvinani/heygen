@@ -4,7 +4,6 @@ import flag from "@/public/flag.png"
 const Language = () => {
   return (
     <div className='px-10'>
-        {/* Every video you have in every language you need. */}
         <div className='bg-indigo-900 grid px-10 p-5 md:grid-cols-2 gap-5 md:gap-80 md:p-20 md:mx-20 rounded-3xl mt-10'>
         <div><p className="text-white text-3xl pt-5 md:text-5xl ">Every video you have in every language you need.  </p>
         

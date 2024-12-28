@@ -1,6 +1,5 @@
 import React from 'react'
-import Image from 'next/image'
-import personalized from "@/public/heygenall.webp"
+
 const Personalized = () => {
   return (
   <div >

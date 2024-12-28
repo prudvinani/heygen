@@ -1,31 +1,19 @@
-import Image from "next/image";
-import { FaAngleDown } from "react-icons/fa";
-import heygen from "../public/heygen.svg"
-import heygen1 from "../public/heygen1.webp"
+
 import VideoContent from "./Contentdata/VideoContent";
 import AllYouNeed from "./Contentdata/AllYouNeed";
 import Doit from "./Contentdata/Doit";
 import Personalized from "./Contentdata/Personalized";
 import Secure from "./Contentdata/Secure";
 import Madewithheygen from "./Contentdata/Madewithheygen";
-import nvidia from "@/public/nvidia.avif"
-import publics from '@/public/public.avif'
-import hubspot from '@/public/hotspot.avif'
-import circle from "@/public/circle.avif"
-import salesforce from "@/public/salesforce.avif"
-import bmw from "@/public/bwm.avif"
-import ogilvy from "@/public/ogily.avif"
-import aa from '@/public/aa.avif'
-import Navbar from "./Contentdata/Navbar";
-import NewData from "./Contentdata/Newdata";
+
+import NewData from "./Contentdata/NavbarCom";
 import MeetData from "./Contentdata/MeetData";
 import Language from "./Contentdata/Language";
-import ReadtoCreate from "./Contentdata/ReadtoCreate";
 import Footer from "./Contentdata/Footer";
 import Hero from "./Contentdata/Herocontent";
 import HeroBackground from "./Contentdata/Herocontent";
-import Slide from "./Contentdata/Slide";
-import MainSlide from "./Contentdata/mainsliding";
+import NavbarCom from "./Contentdata/NavbarCom";
+
 
 
 
@@ -33,8 +21,7 @@ export default function Home() {
   return <div>
 
 
-    {/* <Navbar/> */}
-    <NewData/>
+<NavbarCom/>
 
 
 
