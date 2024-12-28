@@ -2,7 +2,6 @@ import Image from "next/image"
 import nvidia from "@/public/nvidia.avif"
 import publics from '@/public/public.avif'
 import hubspot from '@/public/hotspot.avif'
-import circle from "@/public/circle.avif"
 import  salesforce from "@/public/salesforce.avif"
 import bmw from "@/public/bwm.avif"
 import ogilvy from "@/public/ogily.avif"
@@ -12,16 +11,15 @@ import heygen1 from "@/public/heygen1.webp"
 const MeetData = () => {
   return (
     <div>
-        <div className="hidden md:block">
-<div className="flex justify-between mx-10 pt-6 pb-10 ">
-<Image src={circle} width={30} height={30} alt="nvidia " className="bg-gray-600" />
+        <div className="hidden md:block ">
+          <p className="font-montserrat text-center font-medium">Trusted by over 45,000 customers | Rated 4.8/5 on G2</p>
+<div className="flex justify-between mx-10  pb-10 pt-10 ">
 <Image src={publics} width={30} height={30} alt="nvidia" />
 
 <Image src={hubspot} width={100} height={30} alt="nvidia" />
 <Image src={nvidia} width={100} height={30} alt="nvidia" />
 
 
-<Image src={circle} width={30} height={30} alt="nvidia" />
 <Image src={salesforce} width={120} height={30} alt="nvidia" />
 
 <Image src={bmw} width={30} height={30} alt="nvidia" />
