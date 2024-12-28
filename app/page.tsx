@@ -6,11 +6,9 @@ import Personalized from "./Contentdata/Personalized";
 import Secure from "./Contentdata/Secure";
 import Madewithheygen from "./Contentdata/Madewithheygen";
 
-import NewData from "./Contentdata/NavbarCom";
 import MeetData from "./Contentdata/MeetData";
 import Language from "./Contentdata/Language";
 import Footer from "./Contentdata/Footer";
-import Hero from "./Contentdata/Herocontent";
 import HeroBackground from "./Contentdata/Herocontent";
 import NavbarCom from "./Contentdata/NavbarCom";
 
